@@ -1,0 +1,12 @@
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\obj\Debug\netcoreapp3.1\ORM.csprojAssemblyReference.cache
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfoInputs.cache
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfo.cs
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\bin\Debug\netcoreapp3.1\ORM.deps.json
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\bin\Debug\netcoreapp3.1\ORM.dll
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\bin\Debug\netcoreapp3.1\ORM.pdb
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CopyComplete
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\obj\Debug\netcoreapp3.1\ORM.dll
+C:\Users\roger\Desktop\repositorio\App-.Net-Core\Todo\ORM\obj\Debug\netcoreapp3.1\ORM.pdb
